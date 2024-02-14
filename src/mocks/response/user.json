@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1001,
+        "firstName": "Herman",
+        "lastName": "Palomares",
+        "age": "30",
+        "address": {
+            "country": "Spain",
+            "city": "Madrid",
+            "street": "26 Mirador de Montepinar"
+        },
+        "phone": "+44781165423",
+        "email": "herman@gamil.com"
+
+    },
+
+    {
+        "id": 1002,
+        "firstName": "Sakarias",
+        "lastName": "Satrusteki",
+        "age": "35",
+        "address": {
+            "country": "Spain",
+            "city": "Madrid",
+            "street": "26 Mirador de Montepinar"
+        },
+        "phone": "44781168907s",
+        "email": "saka@gmail.com"
+
+    },
+
+    {
+        "id": 1003,
+        "firstName": "Amador",
+        "lastName": "Rivas",
+        "age": "26",
+        "address": {
+            "country": "Spain",
+            "city": "Madrid",
+            "street": "26 Mirador de Montepinar"
+        },
+        "phone": "",
+        "email": "amador@gmail.com"
+
+    }
+
+]

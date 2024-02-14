@@ -53,7 +53,7 @@ export const CreateEditUser: React.FC<Props> = ({
 		});
 
 	return (
-		<div className="absolute z-10 inset-0 flex items-center justify-center bg-black bg-opacity-70 w-full h-screen">
+		<div className="fixed z-10 inset-0 flex items-center justify-center bg-black bg-opacity-70 w-full h-screen">
 			<form
 				onSubmit={handleSubmit}
 				className="p-8 bg-white dark:bg-warmGray rounded-3xl"

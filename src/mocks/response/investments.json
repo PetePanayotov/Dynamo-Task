@@ -1,6 +1,6 @@
 [
 	{
-		"id": 100,
+		"id": "100",
 		"name": "Crypto",
 		"share": 27.41,
 		"status": "active",
@@ -9,7 +9,7 @@
 		"currency": "USD"
 	},
 	{
-		"id": 102,
+		"id": "102",
 		"name": "Stocks",
 		"share": 22.85,
 		"status": "closed",
@@ -18,7 +18,7 @@
 		"currency": "USD"
 	},
 	{
-		"id": 105,
+		"id": "105",
 		"name": "Land",
 		"share": 18.45,
 		"status": "active",
@@ -27,7 +27,7 @@
 		"currency": "USD"
 	},
 	{
-		"id": 104,
+		"id": "104",
 		"name": "Property",
 		"share": 14.18,
 		"status": "closed",
@@ -36,7 +36,7 @@
 		"currency": "USD"
 	},
 	{
-		"id": 101,
+		"id": "101",
 		"name": "Cash",
 		"share": 9.44,
 		"status": "active",
@@ -45,7 +45,7 @@
 		"currency": "USD"
 	},
 	{
-		"id": 103,
+		"id": "103",
 		"name": "Gold",
 		"share": 7.67,
 		"status": "active",
